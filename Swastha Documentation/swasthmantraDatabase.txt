@@ -1,0 +1,3 @@
+database : swasthma_db
+user : swasthma_admin
+password : admin123$

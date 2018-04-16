@@ -1,0 +1,23 @@
+[11-Jun-2016 10:30:27 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 50
+[13-Jun-2016 06:34:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/swasthmantra/public_html/submit_contact_form.php on line 151
+[13-Jun-2016 06:36:38 UTC] PHP Fatal error:  Cannot redeclare class SMTP in /home/swasthmantra/public_html/class.smtp.php on line 25
+[13-Jun-2016 07:14:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/swasthmantra/public_html/submit_contact_form.php on line 132
+[13-Jun-2016 07:16:12 UTC] PHP Fatal error:  Call to undefined method PHPMailer::SetFrom() in /home/swasthmantra/public_html/submit_contact_form.php on line 35
+[13-Jun-2016 07:18:01 UTC] PHP Fatal error:  Call to undefined method PHPMailer::From() in /home/swasthmantra/public_html/submit_contact_form.php on line 35
+[13-Jun-2016 07:23:58 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 10
+[13-Jun-2016 07:35:41 UTC] PHP Warning:  fsockopen() expects parameter 2 to be long, string given in /home/swasthmantra/public_html/class.smtp.php on line 105
+[13-Jun-2016 07:56:24 UTC] PHP Fatal error:  Call to undefined function clean_string() in /home/swasthmantra/public_html/submit_contact_form.php on line 31
+[13-Jun-2016 07:58:02 UTC] PHP Fatal error:  Call to undefined function clean_string() in /home/swasthmantra/public_html/submit_contact_form.php on line 35
+[13-Jun-2016 07:59:04 UTC] PHP Fatal error:  Call to undefined method PHPMailer::setFrom() in /home/swasthmantra/public_html/submit_contact_form.php on line 42
+[13-Jun-2016 08:03:53 UTC] PHP Warning:  require(PHPMailerAutoload): failed to open stream: No such file or directory in /home/swasthmantra/public_html/submit_contact_form.php on line 3
+[13-Jun-2016 08:03:53 UTC] PHP Warning:  require(PHPMailerAutoload): failed to open stream: No such file or directory in /home/swasthmantra/public_html/submit_contact_form.php on line 3
+[13-Jun-2016 08:03:53 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/swasthmantra/public_html/submit_contact_form.php on line 3
+[13-Jun-2016 08:09:35 UTC] PHP Fatal error:  Call to undefined method PHPMailer::From() in /home/swasthmantra/public_html/submit_contact_form.php on line 25
+[13-Jun-2016 08:26:53 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 54
+[13-Jun-2016 08:30:13 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 56
+[13-Jun-2016 08:39:37 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 56
+[13-Jun-2016 12:45:59 UTC] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/swasthmantra/public_html/class.smtp.php on line 105
+[13-Jun-2016 12:45:59 UTC] PHP Warning:  fsockopen(): unable to connect to swasthmantra.com/:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/swasthmantra/public_html/class.smtp.php on line 105
+[31-Jan-2017 06:51:08 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 81
+[31-Jan-2017 06:55:55 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 81
+[31-Jan-2017 07:09:26 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/swasthmantra/public_html/submit_contact_form.php on line 81

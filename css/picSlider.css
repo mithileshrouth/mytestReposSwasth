@@ -1,0 +1,38 @@
+.picSlider{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.picSlider-wrap{
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.picSlider-wrap > li{
+	position: absolute;
+	display: inline-block;
+	list-style: none;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+.picDot-wrap{
+	width: 100%;
+	position: absolute;
+	bottom: 24px;
+	text-align: center;
+}
+.picDot-wrap > li{
+	display: inline-block;
+	width: 15px;
+	height: 14px;
+	background-color: #F7CA75;
+	border-radius: 0px;
+	margin-right: 4px;
+	transition:background-color 1s;
+	cursor: pointer;
+}
+.picDot-wrap > .on{
+	background-color: #323232;
+}
