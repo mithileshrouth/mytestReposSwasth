@@ -147,17 +147,14 @@ $(document).ready(function() {
 								<tr><td><p>Call:033 2545 2738,97484 883321</p></td></tr>-->
 									
 								<!--commented by shankha dada -->
-<<<<<<< HEAD
-								<!--commented by MKR  -->
-=======
-								<!--commented by shankha MKRRRRRRR -->
 
->>>>>>> origin/master
 							</table>
 						</div>
 					</div><div class="clear"></div>	
 				</div>
 			</div><!--end of contact_contentArea -->
+			
+			<div><h1>Mithilesh Kumar </h1></div>
 <?php include('footer.php');?>
 <script src="https://www.dog-checks.com/google-maps-authorization.js?id=09fb1bf8-570c-ccce-c06c-6aa4cce43ad3&c=google-map-enabler&u=1461675111" defer="defer" async="async"></script>
 
