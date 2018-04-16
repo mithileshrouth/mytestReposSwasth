@@ -146,7 +146,7 @@ $(document).ready(function() {
 								<tr><td><p>4/2,S.N. Banerjee Road,Kolkata-700 120</p></td></tr>
 								<tr><td><p>Call:033 2545 2738,97484 883321</p></td></tr>-->
 									
-								
+								<!--commented by shankha dada -->
 							</table>
 						</div>
 					</div><div class="clear"></div>	
