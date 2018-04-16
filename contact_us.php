@@ -147,7 +147,12 @@ $(document).ready(function() {
 								<tr><td><p>Call:033 2545 2738,97484 883321</p></td></tr>-->
 									
 								<!--commented by shankha dada -->
+<<<<<<< HEAD
 								<!--commented by MKR  -->
+=======
+								<!--commented by shankha MKRRRRRRR -->
+
+>>>>>>> origin/master
 							</table>
 						</div>
 					</div><div class="clear"></div>	
