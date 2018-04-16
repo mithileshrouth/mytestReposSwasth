@@ -147,6 +147,7 @@ $(document).ready(function() {
 								<tr><td><p>Call:033 2545 2738,97484 883321</p></td></tr>-->
 									
 								<!--commented by shankha dada -->
+								<!--commented by MKR  -->
 							</table>
 						</div>
 					</div><div class="clear"></div>	
